@@ -1,7 +1,45 @@
-body{
-    margin: 0px;
+body {
+  margin: 0px;
 }
 
-.hero, .footer{
-    background-color: #1f2937;
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
+
+p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+button {
+  background-color: #3882f6;
+}
+
+.hero,
+.footer {
+  background-color: #1f2937;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.info-header {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.section-2 {
+  background-color: #e5e7eb;
 }
